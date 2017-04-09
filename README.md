@@ -13,6 +13,7 @@ TODO:
     Make SG creation from array
     Make SG Rules creation from array
     Add multiple NATS for 3 AZ as not it runs in 1 public one.
+    Update subnet to use CIDR from VPC
     Add S3 creation for Container registry
     Add ETCD instance creation if we want to run it outside masters. 
     Add EBS to nodes for container runtime config
